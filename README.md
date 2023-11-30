@@ -58,3 +58,4 @@ Key features of Keras include:
 
 Deep learning, a subset of machine learning, is a powerful approach for solving complex tasks by training artificial neural networks. One practical application is sentiment analysis, where deep learning models can be trained to determine the sentiment expressed in text data. One popular and user-friendly framework for implementing such models is Keras.
 Keras simplifies the process of building and training deep learning models, making it accessible to a broad audience, from beginners to experienced researchers and practitioners in the field of artificial intelligence.
+More details about this project is at https://github.com/ArfaKhalid/Deep-Learning-with-Keras-Sentiment-Analysis-of-Reviews/blob/main/Deep_learning_with_Keras_Sentiment_Analysis_of_Reviews.ipynb
